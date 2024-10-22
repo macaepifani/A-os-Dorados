@@ -1,0 +1,10 @@
+.cuadro-texto {
+    padding: 15px;           /* Espaciado interno */
+    border: 2px solid rgb(22 101 52) ; /* Bordes */
+    border-radius: 5px;      /* Bordes redondeados */
+    font-size: 22px;         /* Tamaño de la fuente */
+    width: 75%;            /* Ancho del cuadro */
+    margin: 5px auto;       /* Centrando el cuadro */
+    text-align: center;      /* Alineación del texto */
+    line-height: 2;
+}
