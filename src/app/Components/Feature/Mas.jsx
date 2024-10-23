@@ -9,7 +9,7 @@ export default function Mas() {
       <div className="relative px-4 pt-4 lg:px-4">
         <div className="mx-auto max-w-full py-28 sm:py-28 lg:py-28">
           <div className="text-center">
-           <h1 className="text-4xl font-bold tracking-tight text-green-800 sm:text-7xl">SERVICIOS</h1> 
+           <h1 className="text-3xl font-bold tracking-tight text-green-800 sm:text-5xl lg:text-7xl">SERVICIOS</h1> 
             <div className="mt-8 flex items-center justify-center w-full">
                 <p className="cuadro-texto w-full">
                     Atención las 24hs · Cocina · Mucamas de limpieza · Lavandería · Planchado <br/>

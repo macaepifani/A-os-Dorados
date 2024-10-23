@@ -6,7 +6,7 @@ export default function Servicios(){
         <div id="servicios" className="bg-green-800 py-20 sm:py-24 h-screen">
             <div className="mx-auto max-w-7xl px-6 lg:px-8">
                 <div className="mx-auto max-w-2xl lg:text-center">
-                <p className="mt-2 text-4xl font-bold tracking-tight text-custom-beige sm:text-6xl">ESPECIALIDADES MÉDICAS</p>
+                <p className="mt-2 text-3xl font-bold tracking-tight text-custom-beige sm:text-4xl lg:text-6xl">ESPECIALIDADES MÉDICAS</p>
                 <p className="mt-6 text-lg leading-8 text-gray-200">Ofrecemos una amplia gama de servicios, pensado para poder satisfacer las necesidades individuales de cada uno de nuestros residentes y asi comprometernos con su bienestar.</p>
                 <div className="mt-2 flex items-center justify-center gap-x-6">
                     <Link href="#mas" className="text-medium font-semibold  text-custom-beige hover:underline">

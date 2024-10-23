@@ -10,7 +10,7 @@ export default function About() {
         <div className="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-2">
           <div className="lg:pr-8 lg:pt-4">
             <div className="lg:max-w-lg">
-              <p className="mt-2 text-pretty text-7xl font-semibold tracking-tight text-custom-beige sm:text-5xl">SOBRE NUESTRO HOGAR</p>
+              <p className="mt-2 text-pretty text-3xl font-semibold tracking-tight text-custom-beige sm:text-4xl lg:text-6xl">SOBRE NUESTRO HOGAR</p>
               <p className="mt-6 text-lg leading-8 text-gray-600">El hogar fue fundado en 2001 por la señora Yolanda, motivada por los requerimientos de su propia madre y detectando esta necesidad de hogar y contención en muchas otras familias.</p>
               <p className="mt-6 text-lg leading-8 text-gray-600">Hoy Años Dorados quiere ser la nueva familia de cada abuelo que vive en el hogar. Atendidos por personas amantes de su profesión y totalmente compromettidas con nuestro obejtivos: hacer que los días aquí sean placenteros y felices como aquellos añorados años de la juventud.</p>
             </div>

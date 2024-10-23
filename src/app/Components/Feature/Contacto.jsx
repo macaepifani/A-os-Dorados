@@ -10,7 +10,7 @@ export default function Contacto (){
           <div className="mx-auto grid max-w-2xl grid-cols-1 gap-x-8 gap-y-16 sm:gap-y-20 lg:mx-0 lg:max-w-none lg:grid-cols-2">
             <div className="lg:pr-8 lg:pt-4">
               <div className="lg:max-w-lg">
-                <p className="mt-2 text-pretty text-7xl font-semibold tracking-tight text-green-800 sm:text-7xl">CONTACTANOS</p>
+                <p className="mt-2 text-pretty text-3xl font-semibold tracking-tight text-green-800 sm:text-5xl lg:text-7xl">CONTACTANOS</p>
                 <p className="mt-6 text-lg leading-8 text-gray-600">Si tenes preguntas, queres conocer nuestras instalaciones o cualquier inquietud, no dudes en ponerte en contacto con nosotros.</p>
                 <p className="mt-10 text-pretty font-semibold tracking-tight text-stone-500 sm:text-lg">TELÉFONO</p>
                 <p className="mt-2 text-pretty font-semibold tracking-tight text-stone-700 sm:text-2xl">261-386-5456</p>
